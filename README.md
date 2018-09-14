@@ -1,4 +1,5 @@
-Tplmap
+Server Side Template Injection
+Fork:epinna
 ======
 
 Tplmap assists the exploitation of Code Injection and Server-Side Template Injection vulnerabilities with a number of sandbox escape techniques to get access to the underlying operating system.
